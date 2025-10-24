@@ -37,6 +37,9 @@ A **beautifully designed scientific calculator** built with **HTML, CSS, and Jav
 
 ---
 
+## DEMO
+- https://pandeydevangshu12.github.io/SCIENTIFIC_CALCULATOR/  <-- check this link for the same
+---
 ## 🧩 Tech Stack
 
 | Technology | Purpose |
